@@ -55,6 +55,7 @@ SIGN-UP
 2. **_LOGIN-API_**
    - status: 200
    - Code: "PROFILE_INCOMPLETE",
-   - message: "من فضلك قم بتفعيل حسابك أولاً"
+   - message: "من فضلك أكمل ملفك الشخصي أولاً"
    - token: "token-value"
+
 
